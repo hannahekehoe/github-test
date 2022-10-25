@@ -1,2 +1,3 @@
 Learning how to make git repositories is not particularly stimulating, but it is important!
 I hope these steps become second nature.
+Having a warm cat on your lap is wonderful.
